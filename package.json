@@ -1,0 +1,15 @@
+{
+  "name": "generate-github-search-custom-scope-by-team",
+  "version": "1.0.0",
+  "description": "Queries Github API for all repos belonging to a team and generates a custom scope than can be used in Github search queries",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "prompt": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
